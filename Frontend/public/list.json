@@ -1,0 +1,67 @@
+[
+    {
+        "id" : 1,
+        "name" : "Comedy book",
+        "title": "Stories about faries ! ",
+        "price" : 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    },
+    {
+        "id" : 2,
+        "name" : "Comedy book",
+        "title": "Entertainment",
+        "price" : 20,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    },
+    {
+        "id" : 3,
+        "name" : "Sports book",
+        "title": "Sports ",
+        "price" : 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    },
+    {
+        "id" : 4,
+        "name" : "Manga book",
+        "title": "Manga",
+        "price" : 100,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    
+    },
+    {
+        "id" : 6,
+        "name" : "Love stories",
+        "title": "Love stories by bookRide !",
+        "price" : 200,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    },
+    {
+        "id" : 7,
+        "name" : "Horror Books ",
+        "title": "Horror stories ",
+        "price" : 200,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    },
+    {
+        "id" : 8,
+        "name" : "Thrill stories ",
+        "title": "Thrilling stories !",
+        "price" : 200,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    },
+    {
+        "id" : 9,
+        "name" : "Thrill stories ",
+        "title": "Thrilling stories !",
+        "price" : 200,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723362769~exp=1723366369~hmac=aebf40551f5e1ff1bd8fab7bf5f867b16cb7d8cf38708af2a19e50c09ff7ece3&w=740"
+    }
+]

@@ -26,7 +26,7 @@ const Bannner = () => {
 </label>
 
       </div>
-      <button className="mt-6 btn btn-secondary">Secondary</button>
+      <button className="mt-6 btn btn-secondary">Get Started</button>
 
           </div>
         <div className=' order-1 w-full md:w-1/2  '>
